@@ -1,0 +1,42 @@
+{
+  "categorias": [
+    {
+      "nome": "hjhhuiigh",
+      "classificacao": "higihih",
+      "id": 1
+    },
+    {
+      "nome": "kguyt",
+      "classificacao": "jyj",
+      "id": 2
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "fasdfasdffdeeeeeeee",
+      "id": 1
+    },
+    {
+      "nome": "jçhrtd",
+      "id": 2
+    },
+    {
+      "nome": "uikyuk",
+      "id": 3
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Livro 1",
+      "categoryId": 1,
+      "publisherId": 1
+    },
+    {
+      "id": 1,
+      "title": "Livro 2",
+      "categoryId": 2,
+      "publisherId": 1
+    }
+  ]
+}
